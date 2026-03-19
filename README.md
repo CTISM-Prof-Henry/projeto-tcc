@@ -11,6 +11,7 @@ Template de repositório para projetos de TCC.
 - [ ] Criar um repositório no GitHub para armazenar arquivos do projeto 
 - [ ] Criar um projeto em LaTeX no [Overleaf](https://overleaf.com)
   - [ ] Compartilhar com o orientador
+  - [ ] Nomear arquivo como `\[TCC\] <meu nome> (2026)`
 
 ### Pergunta de pesquisa
 - [ ] Formular uma pergunta de pesquisa clara
