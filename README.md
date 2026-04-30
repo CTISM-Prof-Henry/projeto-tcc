@@ -4,21 +4,21 @@ Template de repositório para projetos de TCC.
 
 ## Checklist
 
-### Definição do tema
-- [ ] Escolher um tema geral do TCC
+### Semana 1 - Definição do tema
+- [ ] Escolher um tema
 - [ ] Escrever uma breve descrição do problema de pesquisa (5–10 linhas)
 - [ ] Definir palavras-chave iniciais relacionadas ao tema
+- [ ] Pesquisar na literatura (Google Scholar) se o tema já foi proposto
+  - [ ] Identificar oportunidades de fazer um trabalho parecido, mas inovador
+
+### Semana 2 - Pergunta de pesquisa
+- [ ] Formular uma pergunta de pesquisa clara
+- [ ] Identificar objetivos (geral e específicos)
+- [ ] Listar possíveis termos de busca e sinônimos
 - [ ] Criar um repositório no GitHub para armazenar arquivos do projeto 
 - [ ] Criar um projeto em LaTeX no [Overleaf](https://overleaf.com)
   - [ ] Compartilhar com o orientador
   - [ ] Nomear arquivo como `[TCC] <meu nome> (2026)`
-
-### Pergunta de pesquisa
-- [ ] Formular uma pergunta de pesquisa clara
-- [ ] Identificar objetivos (geral e específicos)
-- [ ] Listar possíveis termos de busca e sinônimos
-
-### Busca inicial de artigos
 - [ ] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
   - [ ] Google Scholar
   - [ ] Scopus
@@ -32,12 +32,12 @@ Template de repositório para projetos de TCC.
 - [ ] Baixar PDF dos artigos e armazenar no repositório 
 - [ ] Criar uma planilha/lista com artigos encontrados
 
-### Leitura inicial
+### Semana 3 - Leitura inicial
 - [ ] Ler título e resumo dos artigos encontrados
 - [ ] Marcar artigos potencialmente relevantes
 - [ ] Excluir artigos claramente fora do escopo
 
-### Leitura intermediária
+### Semana 4 - Leitura intermediária
 - [ ] Ler introdução e conclusão dos artigos selecionados
 - [ ] Identificar os trabalhos mais importantes da área
 - [ ] Registrar contribuições principais de cada artigo
@@ -109,7 +109,7 @@ Template de repositório para projetos de TCC.
 - [ ] Enviar convites por e-mail
 - [ ] Encontrar uma data para a defesa
 
-### Apresentação 
+### Semana 15 - Apresentação 
 - [ ] Criar apresentação (slides)
 - [ ] Destacar problema, método de busca e principais resultados
 - [ ] Ensaiar a apresentação
