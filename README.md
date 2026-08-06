@@ -73,10 +73,12 @@ Se um artigo chegou até aqui, quer dizer que ele é relevante. Aí não tem esc
 - [ ] Identificar tendências e abordagens comuns
 - [ ] Registrar citações importantes
 
-### Organização
-
-- [ ] Agrupar os artigos por temas ou categorias
-- [ ] Identificar lacunas ou problemas ainda não resolvidos
+>[!NOTE]
+> Dica! Para não se perder nas referências na hora de escrever o documento no LaTeX, copie-e-cole trechos de cada
+> artigo no texto, já colocando a referência BibTeX no arquivo de referências. Faça isso para cada artigo que você
+> for lendo (ou seja, não deixe para fazer no fim!)
+> Depois, quando você for reescrever o texto com suas palavras, lá no fim do semestre, você só precisa "costurar"
+> o raciocínio de todos os trechos copiados.
 
 ### Estrutura do texto
 
@@ -94,49 +96,33 @@ Confira [esta página](https://github.com/CTISM-Prof-Henry/research/blob/main/ca
 
 ### Escrita
 
-#### Introdução
-- [ ] Escrever a seção de Introdução
-- [ ] Apresentar contexto do problema
-- [ ] Justificar a relevância do tema
-- [ ] Apresentar objetivos do trabalho
+Escreva o texto!
 
-#### Metodologia
-- [ ] Descrever como a busca foi realizada
-- [ ] Explicar critérios de inclusão e exclusão
-- [ ] Descrever bases de dados utilizadas
-- [ ] Descrever processo de seleção dos artigos
+- [ ] Introdução
+- [ ] Trabalhos relacionados
+- [ ] Metodologia
+- [ ] Objetivos
+- [ ] Cronograma
+- [ ] Trabalhos futuros
+- [ ] Referências
 
-#### Trabalhos relacionados
-- [ ] Descrever os principais trabalhos encontrados
-- [ ] Comparar abordagens e resultados
-- [ ] Organizar o texto por temas ou categorias
+### Revisão
 
-#### Objetivos
-- [ ] Identificar tendências da área
-- [ ] Discutir limitações dos trabalhos existentes
-- [ ] Apontar lacunas na literatura
-
-#### Cronograma
-- [ ] Criar uma tabela e detalhar o que será feito em cada uma das 15 semanas do TCC 2
-
-#### Trabalhos futuros
-- [ ] Escrever trabalhos futuros
-- [ ] Resumir principais achados do levantamento
-- [ ] Indicar o que será feito no TCC 2
-
-### Revisão do documento
 - [ ] Revisar clareza e organização do texto
 - [ ] Revisar ortografia e gramática
 - [ ] Verificar formatação em LaTeX
   - [ ] zerar erros
+  - [ ] (tentar) zerar warnings. Nem sempre é possível. Dá um Google!
 - [ ] Conferir todas as referências e citações
 
 ### Banca
+
 - [ ] Escolher professores para compor a banca
 - [ ] Enviar convites por e-mail
 - [ ] Encontrar uma data para a defesa
 
-### Semana 15 - Apresentação 
+### Apresentação 
+
 - [ ] Criar apresentação (slides)
 - [ ] Destacar problema, método de busca e principais resultados
 - [ ] Ensaiar a apresentação
