@@ -25,7 +25,7 @@ Template de repositório para projetos de TCC.
     escolher um framework, implementar o algoritmo, fazer testes, etc
 - [ ] Criar um repositório no GitHub para armazenar arquivos do projeto. Pode ser um fork desse aqui!
 - [ ] Criar um projeto em LaTeX no [Overleaf](https://overleaf.com)
-  - [ ] Leia [este arquivo](_prof_henry__Template_MDT_UFSM__2026_/README.md) para instruções
+  - [ ] Leia [este arquivo](_prof_henry__Template_MDT_UFSM__2026_) para instruções
   - [ ] Compartilhar com o orientador
   - [ ] Nomear arquivo como `[TCC] <meu nome> (<ano>)`
     - Por exemplo, `[TCC] Henry (2026)`
