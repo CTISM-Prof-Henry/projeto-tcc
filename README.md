@@ -123,7 +123,7 @@ Escreva o texto!
 
 ### Apresentação 
 
-- [ ] Criar apresentação (slides)
+- [ ] Criar apresentação em slides
 - [ ] Destacar problema, método de busca e principais resultados
-- [ ] Ensaiar a apresentação
-- [ ] Preparar respostas para possíveis perguntas
+- [ ] Ensaiar a apresentação. No máximo 30 minutos
+- [ ] Antecipar perguntas na apresentação, deixar slides com respostas prontos no fim dos slides (oculto)
